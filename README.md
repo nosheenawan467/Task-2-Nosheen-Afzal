@@ -208,6 +208,3 @@ The API was tested using Postman for:
 Backend Development Project 2 – User Management CRUD API
 
 DecodeLabs Industrial Training Program (Batch 2026)
-## Acknowledgment
-
-Developed as part of the DecodeLabs Backend Development Training Program 2026.
