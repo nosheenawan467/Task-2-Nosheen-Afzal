@@ -152,31 +152,31 @@ Request Body:
 
 ### MongoDB Connection
 
-![MongoDB Connected](screenshots/mongodb-connected.png)
+![MongoDB Connected](screenshots/mongodb-connected.PNG)
 
 ### Create User
 
-![Create User](screenshots/create-user.png)
+![Create User](screenshots/POST-Create-user.PNG)
 
 ### Duplicate Email Validation
 
-![Duplicate Email](screenshots/duplicate-email.png)
+![Duplicate Email](screenshots/test-duplicate-email.PNG)
 
 ### Get All Users
 
-![Get All Users](screenshots/get-all-users.png)
+![Get All Users](screenshots/get-all-users.PNG)
 
 ### Get User By ID
 
-![Get User By ID](screenshots/get-user-by-id.png)
+![Get User By ID](screenshots/get-user-by-id.PNG)
 
 ### Update User
 
-![Update User](screenshots/update-user.png)
+![Update User](screenshots/Update-user.PNG)
 
 ### Delete User
 
-![Delete User](screenshots/delete-user.png)
+![Delete User](screenshots/DELETE-user.PNG)
 
 ## Testing
 
@@ -188,18 +188,6 @@ The API was tested using Postman for:
 * Get User By ID
 * Update User
 * Delete User
-
-## Project Requirements Covered
-
-* Database Integration
-* User Schema Design
-* Create Operation
-* Read Operation
-* Update Operation
-* Delete Operation
-* Duplicate Entry Prevention
-* Data Persistence
-* Mongoose ODM Implementation
 
 ## Author
 
